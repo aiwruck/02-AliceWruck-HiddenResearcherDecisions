@@ -1,0 +1,62 @@
+---
+title: "The Hidden Researcher Study"
+author: "Alice Wruck"
+date: "2023-09-13"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+################################################################################
+
+## **Background:**
+
+- When conducting research studies, there will always be some level of variability in results. These results could defer based things like what sample was used, the methods used, etc. Other causes for differences could be decisions made by the researcher throughout their process. 
+- The authors of this study wanted to investigate the degree to which the decisions made by these researchers impact the study's results. 
+
+################################################################################
+
+## **What Kind of Decisions?:**
+
+- When conducting a study, decisions are made throughout the entire process. These decisions could be things like: 
+  - The methods used while cleaning data
+  - The definitions of variables 
+  - The empirical approach 
+
+################################################################################
+
+## **Methodology:** 
+
+- For this study, they used a "many-analysts" approach. 
+  - a "many-analysts" approach is when there are several analysts/researchers given the same research question and data set. The analysts are unaware of the methodology the others are using.
+      - The reason for this is that knowing a peer's methodology could impact their own. This could lead them to getting the same result, but the same incorrect result. 
+
+- Two studies published in reputable journals were selected for replication. Each study was replicated seven times for a total of 14 replications.
+
+################################################################################
+
+## **Key Findings:** 
+
+- They found that there was considerable variation in the analysts' approaches and that these differences led to large variations within their results. 
+  - Biggest difference was in the way data was cleaned and prepared for analysis.
+      - Within analysis, difference of opinion on what models should be used. Due to matters of opinion or familiarity with one model over another. 
+      
+################################################################################
+
+## **How This Could Be Solved:**
+
+- The researchers discuss a few ways in which research papers could be improved and standardized moving forward.:
+  1. Create a set of "best practices" for the field 
+  2. Use model averaging 
+      - Model averaging is when multiple ways of designing the model are averaged together to generate a more accurate result. 
+  3. Use of further detail when describing the analysis of a study could be advised 
+
+################################################################################
+
+## **Sources:**
+
+- https://onlinelibrary.wiley.com/doi/full/10.1111/ecin.12992?casa_token=_rYkh2_s4GkAAAAA%3AKc9akzUrML1yQPkgA8xdMmZeep1VGYfW43oL5yFQQlizxcoXLVmn8aiGYlZauxPDLedIOIbFC8b4Bro
+
+################################################################################
